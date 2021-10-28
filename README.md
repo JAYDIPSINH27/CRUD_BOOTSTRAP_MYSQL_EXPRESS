@@ -40,7 +40,7 @@ I have Created CRUD API USING MYSQL, EXPRESS, BOOTSTRAP
 
 
 
-6.	localhost:5000/course-edit/:id\
+6.	localhost:5000/course-edit/:id
 
  
  ![image](https://user-images.githubusercontent.com/72666169/139312224-f91770bc-6450-41e0-93e2-3e59676921e7.png)
