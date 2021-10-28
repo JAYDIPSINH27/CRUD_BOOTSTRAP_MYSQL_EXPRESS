@@ -15,10 +15,13 @@ I have Created CRUD API USING MYSQL, EXPRESS, BOOTSTRAP
  
 3.	localhost:5000/course
  
+ 
  ![image](https://user-images.githubusercontent.com/72666169/139312050-1fd0ceca-185e-46f9-be79-421f948cafd8.png)
 
 
 4.	localhost:5000/course-add
+
+
  
  ![image](https://user-images.githubusercontent.com/72666169/139312086-cad412c8-78e8-449c-99ec-90afeb582f8e.png)
 
@@ -28,6 +31,8 @@ I have Created CRUD API USING MYSQL, EXPRESS, BOOTSTRAP
 
 
 5.	localhost:5000/course-delete/:id
+
+
  
  ![image](https://user-images.githubusercontent.com/72666169/139312183-9a873ff8-ccf2-4912-ba58-c894e256ca83.png)
  
@@ -35,7 +40,8 @@ I have Created CRUD API USING MYSQL, EXPRESS, BOOTSTRAP
 
 
 
-6.	localhost:5000/course-edit/:id
+6.	localhost:5000/course-edit/:id\
+
  
  ![image](https://user-images.githubusercontent.com/72666169/139312224-f91770bc-6450-41e0-93e2-3e59676921e7.png)
  
@@ -45,6 +51,7 @@ I have Created CRUD API USING MYSQL, EXPRESS, BOOTSTRAP
 
 
 7.	Other apis
+
  
  ![image](https://user-images.githubusercontent.com/72666169/139312317-36d38c2e-c40e-4ddd-bab5-4d3fadbb14b3.png)
  
